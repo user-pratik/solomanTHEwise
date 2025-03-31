@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="screenshots/icon-inverted.svg" 
+    src="screenshots/icon.svg" 
     alt="Solomon THE Wise Logo" 
     width="200" 
     height="200"
