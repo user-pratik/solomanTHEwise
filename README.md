@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="public/icon-inverted.svg" 
+    src="screenshots/icon-inverted.svg" 
     alt="Solomon THE Wise Logo" 
     width="200" 
     height="200"
@@ -153,6 +153,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-Your Name - [@_Prati_Anand](https://twitter.com/_Pratik_Anand)
-Email - pratik.csdev@gmail.com
+Your Name - [@_Pratik_Anand](https://twitter.com/_Pratik_Anand)<br />
+Email - pratik.csdev@gmail.com<br />
 Project Link: [https://github.com/user-pratik/solomonTHEwise](https://github.com/user-pratik/solomonTHEwise](https://github.com/user-pratik/solomonTHEwise)
