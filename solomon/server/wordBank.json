@@ -1,0 +1,107 @@
+{
+  "famous person": [
+    "albert einstein",
+    "leonardo da vinci",
+    "marie curie",
+    "nelson mandela",
+    "william shakespeare"
+  ],
+  "company": [
+    "microsoft",
+    "apple",
+    "amazon",
+    "google",
+    "tesla"
+  ],
+  "animal": [
+    "elephant",
+    "giraffe",
+    "penguin",
+    "dolphin",
+    "lion"
+  ],
+  "object": [
+    "telephone",
+    "computer",
+    "umbrella",
+    "clock",
+    "chair"
+  ],
+  "place": [
+    "paris",
+    "new york",
+    "tokyo",
+    "london",
+    "rome"
+  ],
+  "food": [
+    "pizza",
+    "sushi",
+    "hamburger",
+    "pasta",
+    "chocolate"
+  ],
+  "movie": [
+    "titanic",
+    "star wars",
+    "jurassic park",
+    "avatar",
+    "inception"
+  ],
+  "book": [
+    "harry potter",
+    "lord of the rings",
+    "pride and prejudice",
+    "the great gatsby",
+    "1984"
+  ],
+  "sport": [
+    "soccer",
+    "basketball",
+    "tennis",
+    "baseball",
+    "golf"
+  ],
+  "musical instrument": [
+    "piano",
+    "guitar",
+    "violin",
+    "drums",
+    "flute"
+  ],
+  "historical event": [
+    "world war two",
+    "moon landing",
+    "french revolution",
+    "industrial revolution",
+    "american revolution"
+  ],
+  "scientific discovery": [
+    "gravity",
+    "electricity",
+    "dna",
+    "penicillin",
+    "relativity"
+  ],
+  "technology brand": [
+    "samsung",
+    "sony",
+    "intel",
+    "nvidia",
+    "adobe"
+  ],
+  "video game": [
+    "minecraft",
+    "super mario",
+    "tetris",
+    "pokemon",
+    "zelda"
+  ],
+  "TV show": [
+    "friends",
+    "game of thrones",
+    "breaking bad",
+    "stranger things",
+    "the office"
+  ]
+}
