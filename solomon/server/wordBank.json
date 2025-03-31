@@ -1,107 +1,97 @@
 {
   "famous person": [
-    "albert einstein",
-    "leonardo da vinci",
-    "marie curie",
-    "nelson mandela",
-    "william shakespeare"
+    "isaac newton", "nikola tesla", "charles darwin", "galileo galilei", "sigmund freud", 
+    "plato", "aristotle", "stephen hawking", "alexander graham bell", "vincent van gogh", 
+    "pablo picasso", "winston churchill", "julius caesar", "cleopatra", "genghis khan", 
+    "napoleon bonaparte", "martin luther king jr.", "mahatma gandhi", "mother teresa", "charlie chaplin",
+    "walt disney", "elvis presley", "michael jackson", "madonna", "frida kahlo",
+    "ernest hemingway", "mark twain", "george washington", "benjamin franklin", "john f. kennedy",
+    "abraham lincoln", "queen victoria", "marco polo", "joan of arc", "leon trotsky",
+    "malcolm x", "oscar wilde", "andy warhol", "john lennon", "steve jobs"
   ],
   "company": [
-    "microsoft",
-    "apple",
-    "amazon",
-    "google",
-    "tesla"
+    "ibm", "nintendo", "sony", "facebook", "netflix", "samsung", "nvidia", "intel", "amd", "hp", 
+    "dell", "lenovo", "oracle", "cisco", "salesforce", "paypal", "uber", "airbnb", "spaceX", "tiktok",
+    "snapchat", "adobe", "tesla", "boeing", "general electric", "honda", "toyota", "volkswagen", "bmw", "mercedes-benz",
+    "pepsi", "coca-cola", "mcdonald's", "starbucks", "nike", "adidas", "puma", "red bull", "visa", "mastercard"
   ],
   "animal": [
-    "elephant",
-    "giraffe",
-    "penguin",
-    "dolphin",
-    "lion"
+    "tiger", "cheetah", "wolf", "fox", "panda", "bear", "kangaroo", "zebra", "rhinoceros", "hippopotamus", 
+    "koala", "octopus", "shark", "whale", "seal", "otter", "parrot", "eagle", "owl", "falcon",
+    "crocodile", "alligator", "peacock", "ostrich", "buffalo", "chimpanzee", "gorilla", "rabbit", "ferret", "hedgehog",
+    "lynx", "jaguar", "hummingbird", "mongoose", "gazelle", "walrus", "armadillo", "salamander", "vulture", "pelican"
   ],
   "object": [
-    "telephone",
-    "computer",
-    "umbrella",
-    "clock",
-    "chair"
+    "smartphone", "tablet", "television", "microwave", "refrigerator", "toaster", "blender", "headphones", "speaker", "camera", 
+    "tripod", "backpack", "wallet", "keychain", "lamp", "mirror", "sunglasses", "telescope", "microscope", "calculator",
+    "projector", "printer", "remote control", "flashlight", "binoculars", "watch", "ladder", "hammer", "drill", "screwdriver",
+    "notebook", "whiteboard", "chalkboard", "stapler", "paperclip", "compass", "protractor", "thermometer", "barometer", "alarm clock"
   ],
   "place": [
-    "paris",
-    "new york",
-    "tokyo",
-    "london",
-    "rome"
+    "beijing", "sydney", "moscow", "rio de janeiro", "dubai", "singapore", "toronto", "los angeles", "san francisco", "las vegas", 
+    "barcelona", "madrid", "berlin", "vienna", "venice", "florence", "amsterdam", "bangkok", "seoul", "hong kong",
+    "istanbul", "prague", "mexico city", "shanghai", "mumbai", "delhi", "cape town", "cairo", "athens", "stockholm"
   ],
   "food": [
-    "pizza",
-    "sushi",
-    "hamburger",
-    "pasta",
-    "chocolate"
+    "tacos", "burrito", "ramen", "steak", "sushi roll", "dumplings", "spring rolls", "shawarma", "falafel", "hot dog", 
+    "french fries", "cheesecake", "donut", "croissant", "bagel", "pancakes", "waffles", "omelette", "grilled cheese", "barbecue",
+    "biryani", "paella", "kebab", "curry", "fried rice", "pho", "samosa", "churros", "pudding", "brownies"
   ],
   "movie": [
-    "titanic",
-    "star wars",
-    "jurassic park",
-    "avatar",
-    "inception"
+    "the godfather", "the dark knight", "forrest gump", "pulp fiction", "the matrix", "interstellar", "the shawshank redemption", "gladiator", "the lion king", "braveheart", 
+    "inception", "the avengers", "jurassic world", "black panther", "frozen", "shrek", "spider-man", "iron man", "thor", "doctor strange",
+    "deadpool", "joker", "logan", "toy story", "finding nemo", "coco", "inside out", "up", "zootopia", "moana"
   ],
   "book": [
-    "harry potter",
-    "lord of the rings",
-    "pride and prejudice",
-    "the great gatsby",
-    "1984"
+    "to kill a mockingbird", "the catcher in the rye", "moby dick", "war and peace", "les miserables", "the odyssey", "the iliad", "crime and punishment", "anna karenina", "brave new world", 
+    "fahrenheit 451", "the alchemist", "the book thief", "gone with the wind", "a tale of two cities", "the hobbit", "wuthering heights", "dune", "the handmaid's tale", "dracula",
+    "frankenstein", "the chronicles of narnia", "percy jackson", "twilight", "hunger games", "catch-22", "the fault in our stars", "the road", "one hundred years of solitude", "the giver"
   ],
   "sport": [
-    "soccer",
-    "basketball",
-    "tennis",
-    "baseball",
-    "golf"
+    "cricket", "rugby", "volleyball", "badminton", "cycling", "swimming", "wrestling", "gymnastics", "figure skating", "skiing", 
+    "snowboarding", "archery", "fencing", "boxing", "karate", "judo", "taekwondo", "skateboarding", "surfing", "horse racing",
+    "motorsport", "bobsleigh", "hockey", "handball", "water polo", "lacrosse", "softball", "curling", "snooker", "darts"
   ],
   "musical instrument": [
-    "piano",
-    "guitar",
-    "violin",
-    "drums",
-    "flute"
+    "piano", "guitar", "violin", "drums", "flute",
+    "saxophone", "trumpet", "cello", "clarinet", "trombone",
+    "harp", "accordion", "banjo", "bass guitar", "ukulele",
+    "oboe", "xylophone", "mandolin", "harmonica", "bagpipes",
+    "marimba", "synthesizer", "electric guitar", "bassoon", "ocarina"
   ],
   "historical event": [
-    "world war two",
-    "moon landing",
-    "french revolution",
-    "industrial revolution",
-    "american revolution"
+    "world war two", "moon landing", "french revolution", "industrial revolution", "american revolution",
+    "cold war", "fall of the berlin wall", "roswell incident", "great depression", "pearl harbor attack",
+    "signing of the declaration of independence", "apollo 11 mission", "discovery of america", "civil rights movement", "women's suffrage movement",
+    "battle of waterloo", "spanish flu pandemic", "hiroshima bombing", "assassination of jfk", "roman empire fall",
+    "vietnam war", "d-day invasion", "black plague", "sinking of the titanic", "cuban missile crisis"
   ],
   "scientific discovery": [
-    "gravity",
-    "electricity",
-    "dna",
-    "penicillin",
-    "relativity"
+    "gravity", "electricity", "dna", "penicillin", "relativity",
+    "radioactivity", "germ theory", "heliocentrism", "quantum mechanics", "atomic theory",
+    "evolution", "plate tectonics", "big bang theory", "dark matter", "neuroscience advancements",
+    "human genome project", "vaccines", "genetic engineering", "computer science advancements", "artificial intelligence breakthroughs",
+    "stem cell research", "CRISPR gene editing", "radio waves", "subatomic particles", "nanotechnology"
   ],
   "technology brand": [
-    "samsung",
-    "sony",
-    "intel",
-    "nvidia",
-    "adobe"
+    "samsung", "sony", "intel", "nvidia", "adobe",
+    "ibm", "apple", "microsoft", "google", "tesla",
+    "hp", "dell", "cisco", "oracle", "siemens",
+    "panasonic", "lg", "huawei", "qualcomm", "lenovo",
+    "raspberry pi", "amd", "bose", "logitech", "epson"
   ],
   "video game": [
-    "minecraft",
-    "super mario",
-    "tetris",
-    "pokemon",
-    "zelda"
+    "minecraft", "super mario", "tetris", "pokemon", "zelda",
+    "call of duty", "league of legends", "world of warcraft", "fortnite", "counter-strike",
+    "assassin's creed", "red dead redemption", "the sims", "dark souls", "halo",
+    "street fighter", "mortal kombat", "doom", "overwatch", "metal gear solid",
+    "cyberpunk 2077", "the witcher", "fallout", "resident evil", "half-life"
   ],
   "TV show": [
-    "friends",
-    "game of thrones",
-    "breaking bad",
-    "stranger things",
-    "the office"
+    "friends", "game of thrones", "breaking bad", "stranger things", "the office",
+    "the simpsons", "rick and morty", "the walking dead", "house of cards", "sherlock",
+    "black mirror", "westworld", "fargo", "better call saul", "the crown",
+    "how i met your mother", "big bang theory", "true detective", "narcos", "peaky blinders",
+    "dexter", "supernatural", "money heist", "suits", "the mandalorian"
   ]
 }
