@@ -6,6 +6,7 @@
     alt="Solomon THE Wise Logo" 
     width="200" 
     height="200"
+    style="filter: invert(1);"
   />
 </p>
 
