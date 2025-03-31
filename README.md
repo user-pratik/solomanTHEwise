@@ -1,7 +1,12 @@
 # 🎮 Solomon THE Wise
 
 <p align="center">
-  <img src="public/icon.svg" alt="Solomon THE Wise Logo" width="200" height="200"/>
+  <img 
+    src="public/icon-inverted.svg" 
+    alt="Solomon THE Wise Logo" 
+    width="200" 
+    height="200"
+  />
 </p>
 
 <p align="center">
@@ -150,4 +155,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Your Name - [@_Prati_Anand](https://twitter.com/_Pratik_Anand)
 Email - pratik.csdev@gmail.com
-Project Link: [https://github.com/user-pratik/solomonTHEwise](https://github.com/user-pratik/solomonTHEwise)
+Project Link: [https://github.com/user-pratik/solomonTHEwise](https://github.com/user-pratik/solomonTHEwise](https://github.com/user-pratik/solomonTHEwise)
