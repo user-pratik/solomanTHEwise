@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "build": "echo 'Build server logic here (e.g. tsc)'"
+
   },
   "dependencies": {
     "cors": "^2.8.5",
