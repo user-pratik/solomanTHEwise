@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
-    "build": "echo 'Build server logic here (e.g. tsc)'"
-
+    "build": "babel server.js -o dist/server.js",
+    "start": "node dist/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

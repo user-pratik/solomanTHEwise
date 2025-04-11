@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "scripts": {
-    "start": "npm install && cd solomon && npm start"
+    "start": "npm install && cd solomon && npm run start",
+    "build": "npm install && cd solomon && npm run build"
   }
 }
