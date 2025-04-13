@@ -54,7 +54,7 @@
   ],
   "musical instrument": [
     "piano", "guitar", "violin", "drums", "flute",
-    "saxophone", "trumpet", "cello", "clarinet", "trombone",
+    "saxophone", "trumpet", "cello", "clarinet", 
     "harp", "accordion", "banjo", "bass guitar", "ukulele",
     "oboe", "xylophone", "mandolin", "harmonica", "bagpipes",
     "marimba", "synthesizer", "electric guitar", "bassoon", "ocarina"
